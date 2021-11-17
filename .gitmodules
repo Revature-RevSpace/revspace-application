@@ -1,0 +1,6 @@
+[submodule "revspace-frontend"]
+	path = revspace-frontend
+	url = https://github.com/Revature-RevSpace/revspace-frontend.git
+[submodule "revspace-backend"]
+	path = revspace-backend
+	url = https://github.com/Revature-RevSpace/revspace-backend.git
