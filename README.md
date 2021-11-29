@@ -23,7 +23,7 @@ The following prerequisites are required to run or develop the backend server:
 To run the backend server:
 1. Clone the backend repository
   * `git clone https://github.com/Revature-RevSpace/revspace-backend.git`
-  * This will create a revspace-backend git directory; keep in mind that the maven project itself is a subdirectory at `/.revspace-backend/RevSpaceWebApp`
+  * This will create a revspace-backend git directory; keep in mind that the maven project itself is a subdirectory at `/.revspace-backend/RevSpaceWebService`
 2. To deploy the backend server on an EC2 instance, these shell commands can be run:
 ```sh
 # Environment Variables:
