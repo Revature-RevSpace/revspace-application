@@ -6,7 +6,7 @@ RevSpace is a full-stack web application that allows users to register for an Ac
 Spring MVC, Git, Java, Angular 4, AWS S3, Spring Test, JUnit4, Selenium, Spring Boot, Spring Data, Jenkins, Cucumber, Postman, Spring Test, Spring AOC, Log4J, Maven
 
 ### Contributions By:
-Michael Than, Jaskaran Singh, Parita Shah, Theodore Fanflor, Ahmed Al-sahli, Dylan Rigney, Devin Louis Reichle, Gabriel Gastelum-Valenzuela, Keven Mitchell, Huangyingrui Wang, Thomas Latham, Joseph Bettendorff, Victor Gee, Shamim Rahman, Ryan Whitehill, Tutan Negash Abegaz, Bannon Smith, Jada Forde, Matthew Ramirez, Melissa Martinez
+Michael Than, Jaskaran Singh, Parita Shah, Theodore Fanflor, Ahmed Al-sahli, Dylan Rigney, Devin Louis Reichle, Gabriel Gastelum-Valenzuela, Keven Mitchell, [![](https://avatars.githubusercontent.com/u/93598022?s=50&u=286e38d31512e4b5a6db46263ec2db7b7f17c01b&v=4)](https://github.com/HuangyingruiWang)Huangyingrui Wang, Thomas Latham, Joseph Bettendorff, Victor Gee, Shamim Rahman, Ryan Whitehill, Tutan Negash Abegaz, Bannon Smith, Jada Forde, Matthew Ramirez, Melissa Martinez
 
 ## Getting Started
 
